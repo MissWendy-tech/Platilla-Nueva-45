@@ -5,20 +5,13 @@ function preload(){
 }
 
 function setup(){
-  createCanvas(403,403);
+  createCanvas(600,600);
   
   
-  
-  
-
 }
-
-
 
 function draw() {
 background("white");
-
-
 
   
 drawSprites();
